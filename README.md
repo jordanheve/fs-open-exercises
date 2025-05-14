@@ -4,8 +4,8 @@ This repository contains the projects completed during the **Fullstack Open** co
 
 ## Projects
 
-- [Part 0: Fundamentals of Web Apps](#part-0-fundamentals-of-web-apps) (Coming soon)
-- [Part 1: Introduction to React](#part-1-introduction-to-react) (Coming soon)
+- [Part 0: Fundamentals of Web Apps](./part-0-fundamentals-of-web-apps/)
+- [Part 1: Introduction to React](./part-1-introduction-to-react/) (In process)
 - [Part 2: Communicating with Server](#part-2-communicating-with-server) (Coming soon)
 - [Part 3: Programming a Server with NodeJS and Express](#part-3-programming-a-server-with-nodejs-and-express) (Coming soon)
 - [Part 4: Testing Express Servers, User Administration](#part-4-testing-express-servers-user-administration) (Coming soon)
